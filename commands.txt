@@ -1,0 +1,16 @@
+Try to execute the following commands in the root directory of the repository
+and add the output they produce below each command:
+
+1) git status
+
+2) git log
+
+3) git checkout -b foo
+
+4) git branch -a
+
+5) git add .
+
+6) git commit -m "-m for message"
+
+7) git push
